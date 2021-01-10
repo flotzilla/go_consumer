@@ -1,0 +1,5 @@
+{
+  "DSN": "db.db",
+  "MqttDSN": "amqp://rabbitmq:rabbitmq@localhost:5672",
+  "MqttTopic": "amqp.messaging.message"
+}
